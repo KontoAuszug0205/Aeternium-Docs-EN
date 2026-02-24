@@ -15,6 +15,7 @@
     <img src="https://img.shields.io/badge/Steam-Download-blue?style=for-the-badge&logo=steam">
   </a>
   <a href="#">
+    <a href="https://github.com/KontoAuszug0205/Aeternium-Docs/tree/main">
     <img src="https://img.shields.io/badge/License-Read-red?style=for-the-badge&logo=opensourceinitiative">
   </a>
 </p>
